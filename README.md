@@ -4,7 +4,7 @@
 
 - 🎓 Sun Yat-sen University
 
-- 💼 Business Administration
+- 💼 Business Administration (mainly marketing)
 
 - 🧱 Amateur developer
 
