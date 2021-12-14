@@ -8,9 +8,7 @@
 
 - 🧱 Amateur developer
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=hdiQz)](https://github.com/hdiQz)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hdiQz)](https://github.com/hdiQz/github-readme-stats)
+![hdiQ's GitHub stats](https://github-readme-stats.vercel.app/api?username=hdiQz&show_icons=true&theme=dark)
 
 ### Contact
 
