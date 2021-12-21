@@ -6,7 +6,7 @@
 
 - 💼 Business Administration (mainly Marketing & Production and Operations Management)
 
-- 🧱 Amateur developer, currently learning machine learning and data mining
+- 🧱 Amateur developer, currently learning Machine Learning and Data Mining
 
 ![hdiQ's GitHub stats](https://github-readme-stats.vercel.app/api?username=hdiQz&show_icons=true&theme=dark)
 
