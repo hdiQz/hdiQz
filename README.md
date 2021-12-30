@@ -4,7 +4,7 @@
 
 - 🎓 Sun Yat-sen University
 
-- 💼 Business Administration (mainly Marketing & Production and Operations Management)
+- 💼 Business Administration (mainly Marketing)
 
 - 🧱 Amateur developer, currently learning Machine Learning and Data Mining
 
