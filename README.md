@@ -10,7 +10,7 @@
 
 ![hdiQ's GitHub stats](https://github-readme-stats.vercel.app/api?username=hdiQz&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hdiQz&theme=dark)](https://github.com/hdiQz/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hdiQz&theme=dark&layout=compact)](https://github.com/hdiQz/github-readme-stats)
 
 ### Contact
 
