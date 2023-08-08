@@ -2,9 +2,9 @@
 
 ### About Me
 
-- 🎓 Sun Yat-sen University
+- 🎓 Sun Yat-sen University, Bachelor of Business Administration (mainly Marketing), 2019-2023
 
-- 💼 Business Administration (mainly Marketing)
+- 💼 Currently working in a trading company
 
 - 🧱 Amateur developer, currently learning Machine Learning and Web Crawling
 
