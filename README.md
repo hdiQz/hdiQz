@@ -6,7 +6,7 @@
 
 - 💼 Currently working in a trading company
 
-- 🧱 Amateur developer, currently learning Machine Learning and Web Crawling
+- 🧱 Amateur developer, currently learning Frontend, Machine Learning, and Web Crawling
 
 ![hdiQ's GitHub stats](https://github-readme-stats.vercel.app/api?username=hdiQz&show_icons=true&theme=dark)
 
