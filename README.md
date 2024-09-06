@@ -8,7 +8,7 @@
 
 - 🧱 Amateur developer, currently learning Front-end, Machine Learning, and Web Crawling
 
-![hdiQ's GitHub stats](https://github-readme-stats.vercel.app/api?username=hdiQz\&show_icons=true\&theme=dark\&rank_icon=github)
+![hdiQ's GitHub stats](https://github-readme-stats.vercel.app/api?username=hdiQz\&show_icons=true\&theme=dark\&rank_icon=github\&include_all_commits=true\&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hdiQz&theme=dark&layout=compact)](https://github.com/hdiQz/github-readme-stats)
 
