@@ -4,7 +4,7 @@
 
 - 🎓 Sun Yat-sen University, Bachelor of Business Administration (mainly Marketing), 2019-2023
 
-- 💼 Currently working in a trading company
+- 💼 Currently working in a trading company headquartered in Hong Kong SAR, China
 
 - 🧱 Amateur developer, currently learning Front-end, Machine Learning, and Web Crawling
 
